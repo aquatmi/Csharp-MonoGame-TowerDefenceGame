@@ -99,7 +99,7 @@ namespace Dungeon_Crawler.Managers
         }
         public void Draw(SpriteBatch spriteBatch)
         {
-            //mapManager.Draw(spriteBatch);
+            mapManager.Draw(spriteBatch);
             enemyManager.Draw(spriteBatch);
             towerManager.Draw(spriteBatch);
             uiManager.Draw(spriteBatch);
