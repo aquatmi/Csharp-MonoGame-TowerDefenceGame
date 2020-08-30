@@ -1,0 +1,19 @@
+Tower Defence Game TODO
+
+GAMEPLAY
+-----------------------
+Win state / Lose state
+better wave configuration / endless???
+more towers / tower upgrades
+
+
+GRAPHICS
+-----------------------
+COMPLETE OVERHAUL,
+simple pixel art will be fine.
+
+
+SOUND
+----------------------
+This is a last thing, but needs music and more sound effects.
+current sound effects are simple and uninteresting.
